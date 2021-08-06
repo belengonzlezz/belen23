@@ -1,0 +1,17 @@
+p{
+    color: orange;
+    line-height: 20px;
+}
+
+h1{
+    color: plum;
+    background-color: powderblue;
+  width: fit-content;
+}
+
+h2{
+    text-align: center;
+    background-color: pink
+    ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
